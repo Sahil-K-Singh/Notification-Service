@@ -1,0 +1,3 @@
+exports.send=async(userid,message)=>{
+    console.log(`sms sent to ${userid} :${message}`);
+}
